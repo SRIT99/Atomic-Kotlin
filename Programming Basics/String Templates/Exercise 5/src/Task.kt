@@ -2,6 +2,6 @@
 package stringTemplatesExercise5
 
 fun main() {
-  val answer = 42
-  println("The answer is $answer")
+  val number = 42
+  println("The answer is $number")
 }
