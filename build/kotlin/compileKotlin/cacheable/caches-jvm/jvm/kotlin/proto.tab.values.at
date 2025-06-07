@@ -1,11 +1,4 @@
-rKt
- 
-abstractstateStateOfAClassKt
-
-
-atomictestAtomicTestKt
-*
- baseClassInitializationExercise2TaskKt
+ssInitializationExercise2TaskKt
 *
  baseClassInitializationExercise3TaskKt
 :
@@ -844,7 +837,10 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     ercise2TaskKt
+UnSealedKt" *     WithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     *     ercise2TaskKt
 
 innerClassesExercise3TaskKt
 h
