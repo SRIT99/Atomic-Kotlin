@@ -1,4 +1,4 @@
-ssInitializationExercise2TaskKt
+baseClassInitializationExercise2TaskKt
 *
  baseClassInitializationExercise3TaskKt
 :
@@ -837,12 +837,11 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     WithoutDefaultArgumentsKt
+UnSealedKt" *     tsealedclasses
+UnSealedKt" *     rgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     *     ercise2TaskKt
-
-innerClassesExercise3TaskKt
+UnSealedKt" *     innerClassesExercise3TaskKt
 h
 innerclassesCounterFactoryKtHotelKtInnerClassInheritanceKtLocalInnerClassesKtQualifiedThisKt
 \

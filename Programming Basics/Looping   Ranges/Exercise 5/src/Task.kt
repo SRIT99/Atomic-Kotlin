@@ -3,5 +3,10 @@ package loopingAndRangesExercise5
 
 fun main() {
   val s = "abcd"
+  for (d in s) {
+    var i = 0
+    println(s[i])
+    i++
 
+  }
 }
